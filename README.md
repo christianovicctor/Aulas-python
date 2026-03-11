@@ -1,4 +1,6 @@
+https://www.online-python.com
 
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pythononline.net/&ved=2ahUKEwjcubjL7ZeTAxV7HrkGHVovHtoQFnoECCcQAQ&usg=AOvVaw1O-6-Fhm6BvhI3kUKf6WAT
 https://archiveofourown.org/works/43314273/chapters/176406491#workskin
 
 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facom.ufu.br/~william/Disciplinas%25202019-1/BIOTCH-GBT017-IntoducaoInformatica/285173966-aprendendo-python-pdf.pdf&ved=2ahUKEwj02-y8y-KRAxW5pJUCHRSUFtIQFnoECCMQAQ&usg=AOvVaw2vU-7Za5HPGYg_aGsuC4EY
