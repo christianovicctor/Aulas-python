@@ -1,3 +1,5 @@
+https://www.royalroad.com/fiction/72717/the-will-of-gil-gilderoy-lockhart-si
+
 https://www.online-python.com
 
 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pythononline.net/&ved=2ahUKEwjcubjL7ZeTAxV7HrkGHVovHtoQFnoECCcQAQ&usg=AOvVaw1O-6-Fhm6BvhI3kUKf6WAT
