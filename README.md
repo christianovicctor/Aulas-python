@@ -1,9 +1,18 @@
-https://www.royalroad.com/fiction/72717/the-will-of-gil-gilderoy-lockhart-si
+
+Instruções
+Criar um algoritmo em Python que receba um filme e mostre estilo e o diretor. Criem funções para apresentar a informação. Escolha ao menos 5 filmes.
+Criar um algoritmo em Python que receba o tamanho de 3 lados e informe se eles formam um triângulo. Caso sim, informe qual o tipo de triângulo (equilátero, isósceles ou escaleno)
+Criar um algoritmo em Python que receba um mês e informe a estação do ano (verão, primavera, inverno ou outono).
+.ttps://www.royalroad.com/fiction/72717/the-will-of-gil-gilderoy-lockhart-si
+
+
 
 https://www.online-python.com
 
 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pythononline.net/&ved=2ahUKEwjcubjL7ZeTAxV7HrkGHVovHtoQFnoECCcQAQ&usg=AOvVaw1O-6-Fhm6BvhI3kUKf6WAT
-https://archiveofourown.org/works/43314273/chapters/176406491#workskin
+ht
+
+tps://archiveofourown.org/works/43314273/chapters/176406491#workskin
 
 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facom.ufu.br/~william/Disciplinas%25202019-1/BIOTCH-GBT017-IntoducaoInformatica/285173966-aprendendo-python-pdf.pdf&ved=2ahUKEwj02-y8y-KRAxW5pJUCHRSUFtIQFnoECCMQAQ&usg=AOvVaw2vU-7Za5HPGYg_aGsuC4EY
 
